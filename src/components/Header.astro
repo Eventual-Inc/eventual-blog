@@ -6,7 +6,6 @@ import { SITE_TITLE } from '../consts';
 	<nav>
 		<a href="/" class="logo">
 			<img src="/eventual-logo.svg" alt="Eventual" class="logo-img" />
-			<span class="logo-text">blog</span>
 		</a>
 		<div class="nav-links">
 			<a href="/">home</a>
@@ -25,26 +24,23 @@ import { SITE_TITLE } from '../consts';
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
-		max-width: 960px;
+		max-width: 1440px;
 		margin: 0 auto;
-		height: 64px;
+		height: 84px;
+		padding: 0 30px;
 	}
 	.logo {
 		display: flex;
-		align-items: center;
-		gap: 0.5em;
+		align-items: baseline;
+		gap: 0.4em;
 		text-decoration: none;
 	}
 	.logo-img {
-		height: 24px;
+		height: 20px;
 		width: auto;
 		filter: brightness(0) invert(1);
-	}
-	.logo-text {
-		font-family: "Favorit Mono", monospace;
-		font-size: 14px;
-		color: #888;
-		text-transform: lowercase;
+		position: relative;
+		top: 3px;
 	}
 	.nav-links {
 		display: flex;
