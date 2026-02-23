@@ -66,9 +66,17 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 		margin: auto;
 		padding: 1em;
 		color: #ddd;
-		font-family: "Oxygen", sans-serif;
-		font-size: 16px;
+		font-family: "Times Now", Georgia, serif;
+		font-size: 18px;
 		line-height: 1.8;
+	}
+	.prose :global(h1),
+	.prose :global(h2),
+	.prose :global(h3),
+	.prose :global(h4),
+	.prose :global(h5),
+	.prose :global(h6) {
+		font-family: "Times Now", Georgia, serif;
 	}
 	.title {
 		margin-bottom: 1em;
@@ -79,12 +87,13 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 	.title h1 {
 		margin: 0 0 0.5em 0;
 		color: #fff;
+		font-family: "Times Now", Georgia, serif;
 	}
 	.date {
 		margin-bottom: 0.5em;
 		color: #888;
-		font-family: "Favorit Mono", monospace;
-		font-size: 14px;
+		font-family: "Times Now", Georgia, serif;
+		font-size: 15px;
 	}
 	.last-updated-on {
 		font-style: italic;
