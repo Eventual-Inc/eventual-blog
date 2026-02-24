@@ -1,48 +1,48 @@
 @font-face {
 	font-family: "Times Now";
-	src: url("/fonts/Times Now/JHA_Times_Now_SemiLight.woff2") format("woff2");
+	src: url("/blog/fonts/Times Now/JHA_Times_Now_SemiLight.woff2") format("woff2");
 	font-weight: 300;
 	font-style: normal;
 	font-display: swap;
 }
 @font-face {
 	font-family: "Times Now";
-	src: url("/fonts/Times Now/JHA_Times_Now_SemiLight_Italic.woff2") format("woff2");
+	src: url("/blog/fonts/Times Now/JHA_Times_Now_SemiLight_Italic.woff2") format("woff2");
 	font-weight: 300;
 	font-style: italic;
 	font-display: swap;
 }
 @font-face {
 	font-family: "Favorit Mono";
-	src: url("/fonts/Favorit Mono/ABCFavoritMono-Regular.woff2") format("woff2");
+	src: url("/blog/fonts/Favorit Mono/ABCFavoritMono-Regular.woff2") format("woff2");
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
 }
 @font-face {
 	font-family: "Favorit Mono";
-	src: url("/fonts/Favorit Mono/ABCFavoritMono-Medium.woff2") format("woff2");
+	src: url("/blog/fonts/Favorit Mono/ABCFavoritMono-Medium.woff2") format("woff2");
 	font-weight: 500;
 	font-style: normal;
 	font-display: swap;
 }
 @font-face {
 	font-family: "Favorit Mono";
-	src: url("/fonts/Favorit Mono/ABCFavoritMono-Bold.woff2") format("woff2");
+	src: url("/blog/fonts/Favorit Mono/ABCFavoritMono-Bold.woff2") format("woff2");
 	font-weight: 700;
 	font-style: normal;
 	font-display: swap;
 }
 @font-face {
 	font-family: "Oxygen";
-	src: url("/fonts/Oxygen/Oxygen-Regular.woff2") format("woff2");
+	src: url("/blog/fonts/Oxygen/Oxygen-Regular.woff2") format("woff2");
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
 }
 @font-face {
 	font-family: "Oxygen";
-	src: url("/fonts/Oxygen/Oxygen-Bold.woff2") format("woff2");
+	src: url("/blog/fonts/Oxygen/Oxygen-Bold.woff2") format("woff2");
 	font-weight: 700;
 	font-style: normal;
 	font-display: swap;
